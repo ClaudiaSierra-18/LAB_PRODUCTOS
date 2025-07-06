@@ -1,1 +1,1 @@
-# LAB_PRODUCTOS
+# Laboratorio
